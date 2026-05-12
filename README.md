@@ -176,8 +176,6 @@ SPAM
 
 **Saifullah Khan Jadoon**
 
-Student at COMSATS University Abbottabad Campus.
-
 ---
 
 ## License
